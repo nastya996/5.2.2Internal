@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5.2.2Internal</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="btnRegistration">REGISTRATION</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="login_and_password_saved_successfully">Логин и пароль успешно сохранены</string>
+    <string name="CheckBox">Хранить логин во внешнем хранилище</string>
+</resources>
